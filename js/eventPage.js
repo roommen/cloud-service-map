@@ -5,7 +5,7 @@ var notID = 0;
 var csm = new Map([["EC2", "Compute Engine <> Azure Virtual Machine"],
                     ["ECR", "Google Container Registry <> Azure Container Registry"],
                     ["ECS", "Google Kubernetes Engine <> Azure Container Instances"],
-                    ["EKS", "Google Kubernetes Engine <> Azure Container Instances"],
+                    ["EKS", "Google Kubernetes Engine <> Azure Kubernetes Service"],
                     ["Lambda", "Google Cloud Functions <> Azure Functions"],
                     ["Elastic Beastalk", "App Engine <> Azure Web Apps"],
                     ["S3", "Google Cloud Storage <> Azure Blob Storage"],
