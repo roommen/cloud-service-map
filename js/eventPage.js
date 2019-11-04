@@ -65,7 +65,7 @@ var csm = new Map([["EC2", "Compute Engine <> Azure Virtual Machine <> IBM Cloud
 // Generate the context menu.
 var contextMenuItem = {
     id: "serviceMap",
-    title: "Show equivalent GCP <> Azure",
+    title: "Show equivalent GCP <> Azure <> IBM Cloud",
     contexts: ["selection"]
 };
 
