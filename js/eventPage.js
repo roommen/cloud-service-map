@@ -59,7 +59,7 @@ var csm = new Map([["EC2", "Compute Engine <> Azure Virtual Machine <> IBM Cloud
                     ["AWS Marketplace Subscriptions", "Cloud Launcher <> Azure MarketPlace <> IBM Cloud Catalog"],
                     ["WorkMail", "G Suite <> Microsoft Office 365 <> IBM Verse"],
                     ["WorkDocs", "G Suite <> Microsoft Office 365 <> Box"],
-                    ["IoT Core", "Cloud IoT Core <> Azure IoT Hub <> IBM Watson IoT Platform"]                   
+                    ["IoT Core", "Cloud IoT Core <> Azure IoT Hub <> IBM Watson IoT Platform"]
 ])
 
 // Generate the context menu.
